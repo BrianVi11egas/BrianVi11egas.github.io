@@ -2,7 +2,7 @@
 Hello! I am Brian Villegas, a current student working to get his degree in Game Design and hoping to create amazing content!
 This is my portfolio containing all my works, from College to work experience that can show my skills in the field. More particularly desciplinary areas.
 
-##College Code Projects
+## College Code Projects
 Code Projects 
 > These are the current projects I have done so far for my classes
 ### Random Number Generator project 
@@ -17,11 +17,14 @@ Asking the user to submit a number that guesses how many ducks there are.
 
 <img width="1526" height="713" alt="Screenshot 2025-10-27 141638" src="https://github.com/user-attachments/assets/66e4f75b-5a42-4973-a484-cc94755c0ffd" />
 
-###Composition creator
+### Composition creator
 This project required me to create an algorithm that outputs an a different image per frame asked for
 
 <img width="1526" height="713" alt="Screenshot 2025-09-22 140018" src="https://github.com/user-attachments/assets/66e4f75b-5a42-4973-a484-cc94755c0ffd" />
 
-### 
+### Algorithmic Bias 
+This project allowed me to see that you didn't need to be an expert in coding, it was all just about learning how you can explain yourself and what I was trying to explain. 
+It is something that I learned in the future after I have used Javascript and style to improve upon it, it's not the prettiest thing in the world. However, it is something that I am proud of.
 
 
+<img width="1526" height="713" alt="Screenshot 2025-12-01 130111" src="https://github.com/user-attachments/assets/66e4f75b-5a42-4973-a484-cc94755c0ffd" />
