@@ -20,7 +20,7 @@ Asking the user to submit a number that guesses how many ducks there are.
 ### Composition creator
 This project required me to create an algorithm that outputs an a different image per frame asked for
 
-<img width="1022" height="796" alt="Screenshot 2025-09-22 140018" src="https://github.com/user-attachments/assets/264f5225-5c9d-4e52-9b29-5c1d10de7945" />
+<img width="1122" height="896" alt="Screenshot 2025-09-22 140018" src="https://github.com/user-attachments/assets/264f5225-5c9d-4e52-9b29-5c1d10de7945" />
 
 
 ### Quick, Draw!
