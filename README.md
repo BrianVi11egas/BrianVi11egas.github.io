@@ -35,6 +35,7 @@ It is something that I learned in the future after I have used Javascript and st
 The overall reason for the project is to discuss the problem with algorithmic bias, mostly for the reason that now a days. Companies are starting to use AI more during the hiring process or AI to actually take up the job of someone else.
 Making it a very big problem for mistakes and even less jobs being available, leading people to scramble for any jobs that have not been taken over by AI. 
 
-<img width="14" height="55" alt="Screenshot 2025-12-01 130013" src="https://github.com/user-attachments/assets/c0542443-ad0e-47bd-80f2-372ead9297bb" />
+<img width="1902" height="1072" alt="Screenshot 2025-10-06 152618" src="https://github.com/user-attachments/assets/355edc9b-648a-490e-af1c-91513c411aae" />
+
 
 
