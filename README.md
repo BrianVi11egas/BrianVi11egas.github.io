@@ -25,6 +25,9 @@ This project required me to create an algorithm that outputs an a different imag
 ### Algorithmic Bias 
 This project allowed me to see that you didn't need to be an expert in coding, it was all just about learning how you can explain yourself and what I was trying to explain. 
 It is something that I learned in the future after I have used Javascript and style to improve upon it, it's not the prettiest thing in the world. However, it is something that I am proud of.
+The overall reason for the project is to discuss the problem with algorithmic bias, mostly for the reason that now a days. Companies are starting to use AI more during the hiring process or AI to actually take up the job of someone else.
+Making it a very big problem for mistakes and even less jobs being available, leading people to scramble for any jobs that have not been taken over by AI. 
+
 
 
 <img width="1526" height="713" alt="Screenshot 2025-12-01 130111" src="https://github.com/BrianVi11egas/BrianVi11egas.github.io/commit/703372b691be9f298247a7a54a1d6b7cae70decc" />
