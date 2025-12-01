@@ -9,7 +9,7 @@ Code Projects
 This was a project that required me to create random number generator as the header says
 printing out a random number when cliking on the "Submit" button.
 
-<img width="536" height="302" alt="Screenshot 2025-10-27 134639" src="https://github.com/user-attachments/assets/fb426ffd-b8db-4b54-9c42-f7bcb9e22c92" />
+<img width="1536" height="302" alt="Screenshot 2025-10-27 134639" src="https://github.com/user-attachments/assets/fb426ffd-b8db-4b54-9c42-f7bcb9e22c92" />
 
 ### Duck Guessing game
 This is similar to the previous project, but the difference being that the number randomizes the number of ducks. 
